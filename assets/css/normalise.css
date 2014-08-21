@@ -433,7 +433,7 @@ th {
 .cf:before,
 .clearfix:after,
 .cf:after {
-    content: " "; /
+    content: " ";
     display: table; 
 }
 
